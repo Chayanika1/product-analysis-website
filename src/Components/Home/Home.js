@@ -27,16 +27,18 @@ const Home = () => {
                 
                   <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKMPi-D6o6Qa20I8HUwpVw04XIygKWbXMDw&usqp=CAU" alt=""/></div>
                 </div>
+                <h1>Customer review</h1>
                         <div className='customer-review'>
-                            <h1>Customer review</h1>
+                            
                             {
                                 comments.map(comment=><Comments comment={comment}></Comments>)
                             }
-                            <button>
-                                <a href="/Reviews">Reviews</a>
-                            </button>
+                            
                               
                         </div>
+                        <button>
+                                <a href="/Reviews">Reviews</a>
+                            </button>
                 
             
               
