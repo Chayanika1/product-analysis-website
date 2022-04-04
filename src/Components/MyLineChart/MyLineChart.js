@@ -45,7 +45,7 @@ const MyLineChart = () => {
       
     return (
           
-        <LineChart width={400} height={500} data={data}>
+        <LineChart className="md:w-48 sm:w-10"width={400} height={500} data={data}>
             <Line dataKey={'price'}></Line>
             
             <XAxis dataKey="name"></XAxis>
