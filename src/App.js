@@ -12,6 +12,7 @@ import Reviews from './Components/Reviews/Reviews';
 function App() {
   return (
     <div className="App">
+      <h1 className='text-4xl text-teal-400 p-4'>Welcome to my Shirt Shop</h1>
       <Header></Header>
        
       <Routes>

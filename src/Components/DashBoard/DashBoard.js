@@ -1,4 +1,5 @@
 import React from 'react';
+import MyChart from '../MyLineChart/MyAreaChart/MyChart';
 import MyLineChart from '../MyLineChart/MyLineChart';
 import MyPie from '../MyLineChart/MyPie';
 
@@ -11,6 +12,7 @@ const DashBoard = () => {
 
             </MyLineChart>
             <MyPie></MyPie>
+            <MyChart></MyChart>
             
         </div>
     );

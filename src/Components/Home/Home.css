@@ -1,8 +1,8 @@
 .container{
-    display: flex;
-    justify-content: space-between;
+   
+    
     max-width: 1200px;
-    margin:auto;
+    margin:0 auto;
 }
 .buy-btn{
     background-color: red;
@@ -18,4 +18,8 @@
 .customer-review{
     display: grid;
     grid-template-columns: repeat(3,1fr);
+}
+.my-img{
+    height:400px;
+    width:500px;
 }

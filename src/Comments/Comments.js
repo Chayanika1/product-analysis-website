@@ -6,8 +6,8 @@ const Comments = (props) => {
     return (
         <div className='my-comment'> 
         <div className='card'>
-        <img src={image} alt=""/>
-        <div className='card-body'>
+        <img className='rounded-full' src={image} alt=""/>
+        <div className='card-body text-justify mx-3 my-6'>
         <h4>{name}</h4>
             <p>{comments}</p>
             <p><small>{ratings}</small></p>
