@@ -1,9 +1,10 @@
 import React from 'react';
+import QuestionAnswer from '../Question-Answer/QuestionAnswer';
 
 const Blogs = () => {
     return (
         <div>
-            <h3>this is blog page</h3>
+            <QuestionAnswer></QuestionAnswer>
             
         </div>
     );

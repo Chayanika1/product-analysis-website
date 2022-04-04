@@ -12,6 +12,7 @@ import Reviews from './Components/Reviews/Reviews';
 function App() {
   return (
     <div className="App">
+      <div className='container'>
       <h1 className='text-4xl text-teal-400 p-4'>Welcome to my Shirt Shop</h1>
       <Header></Header>
        
@@ -24,6 +25,9 @@ function App() {
         <Route path ="/About" element ={<About></About>}></Route>
         <Route path ="*" element ={<Error></Error>}></Route>
       </Routes>
+
+      </div>
+      
       
      
     </div>

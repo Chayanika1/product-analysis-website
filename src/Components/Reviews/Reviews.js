@@ -7,7 +7,7 @@ const Reviews = () => {
     const[comments,setComments] = useComments();
     return (
         <div>
-            <h2>this is review page</h2>
+            <h2 className='text-4xl my-6 text-red-300'>this is review page</h2>
             <div className='md:grid grid-cols-3'>
             {
                 comments.map(comment=><AllReviews comment={comment}></AllReviews>)
