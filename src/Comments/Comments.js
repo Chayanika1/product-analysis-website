@@ -10,7 +10,7 @@ const Comments = (props) => {
         <div className='card-body text-center mx-3 my-6'>
         <h4>{name}</h4>
             <p>{comments}</p>
-            <p><small>{ratings}</small></p>
+            <p><small>ratings:{ratings}</small></p>
 
         </div>
 

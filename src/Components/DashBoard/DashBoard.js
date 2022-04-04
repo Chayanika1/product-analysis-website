@@ -12,7 +12,7 @@ const DashBoard = () => {
 
             </MyLineChart>
             <MyPie></MyPie>
-            <MyChart></MyChart>
+            
             
         </div>
     );

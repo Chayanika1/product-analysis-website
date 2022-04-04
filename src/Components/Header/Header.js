@@ -1,11 +1,13 @@
 import React from 'react';
 import Link from '../Link/Link';
 
+
 const Header = () => {
     return (
-        <div>
+        <div className='list'>
             
             <Link></Link>
+           
             
         </div>
     );

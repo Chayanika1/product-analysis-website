@@ -8,7 +8,7 @@ const AllReviews = (props) => {
             <img  className="rounded-full"src={image} alt=""/>
             <div className='card-body  mx-3 my-6 text-center'>
             <h1>{name}</h1>
-            <h2>{ratings}</h2>
+            <h2>ratings:{ratings}</h2>
             <p>{comments}</p>
 
             </div>

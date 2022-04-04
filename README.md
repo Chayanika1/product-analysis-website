@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# Getting started with my-store app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+*creating some route
+*create some cards and write review on them
+*create a two reCharts
 
 In the project directory, you can run:
 

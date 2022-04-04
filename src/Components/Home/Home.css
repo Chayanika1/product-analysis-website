@@ -1,9 +1,5 @@
-.container{
-   
-    
-    max-width: 1200px;
-    margin:0 auto;
-}
+
+
 .buy-btn{
     background-color: red;
     color:white;
@@ -14,6 +10,7 @@
     border-radius: 20px;
     text-align: center;
     justify-content: center;
+    margin-bottom: 10px;
 }
 
 .my-img{

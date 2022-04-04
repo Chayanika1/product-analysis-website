@@ -40,7 +40,7 @@ const Home = () => {
                  
                 </div>
                 <h1 className='text-lime-300 text-3xl my-8'>Customer review</h1>
-                        <div className='md:grid grid-cols-3'>
+                        <div className='md:grid grid-cols-3'id="my-pic">
                             
                             {
                                 comments.slice(0,3).map(comment=><Comments comment={comment}></Comments>)
@@ -48,7 +48,7 @@ const Home = () => {
                             
                               
                         </div>
-                        <button className='rounded-full bg-teal-400 p-4 text-white'>
+                        <button className='rounded-lg bg-teal-400 p-4 text-white'>
                             <a href="/Reviews">Review more</a>
                         </button>
                 
