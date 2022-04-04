@@ -1,9 +1,16 @@
 import React from 'react';
+import MyLineChart from '../MyLineChart/MyLineChart';
+import MyPie from '../MyLineChart/MyPie';
+
 
 const DashBoard = () => {
     return (
-        <div>
-            <h3>this is dash board</h3>
+        <div className='dash-board'>
+            
+            <MyLineChart>
+
+            </MyLineChart>
+            <MyPie></MyPie>
             
         </div>
     );
