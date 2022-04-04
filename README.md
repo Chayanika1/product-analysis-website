@@ -11,7 +11,7 @@ my live site link is https://voluble-khapse-675f14.netlify.app
 
 </ul>
 
-*create a two reCharts
+
 
 In the project directory, you can run:
 
