@@ -1,10 +1,16 @@
 # Getting started with my-store app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+my live site link is https://voluble-khapse-675f14.netlify.app
 
 ## Available Scripts
-*creating some route
-*create some cards and write review on them
+<ul>
+<li>creating some route</li>
+<li>create some cards and write review on them</li>
+<li>create a two reCharts</li>
+
+</ul>
+
 *create a two reCharts
 
 In the project directory, you can run:
