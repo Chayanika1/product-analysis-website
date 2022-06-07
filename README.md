@@ -8,6 +8,8 @@ my live site link is https://voluble-khapse-675f14.netlify.app
 <li>creating some route</li>
 <li>create some cards and write review on them</li>
 <li>create a two reCharts</li>
+<li>by clicking review more button,user will see more review</li>
+<li>in about section you can see all information of the company</li>
 
 </ul>
 
